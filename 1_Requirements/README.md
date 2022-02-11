@@ -7,11 +7,9 @@
    * Designing and implementing of Snake and Ladder using basic programming.
 
 * 4W'S and 1-H:-
-  * What-
-  * Why-
-  * Where-
-  * When-
-  * How-
+  * What- What number did player land on? / What number comes next?
+  * Which-Which way do player has to go next? 
+  * How- How many more do player need to win?
 
 * SWOT Analysis:-
 
