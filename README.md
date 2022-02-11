@@ -14,3 +14,5 @@ The game will begin with any dice value .If a 6(six) is appeared then a chance i
 <a href="https://app.codiga.io/public/user/github/GANGATHARUN">
    <img src="https://api.codiga.io/public/badge/user/github/GANGATHARUN?style=light" alt="codiga badge" />
 </a>
+
+![Screenshot (78)](https://user-images.githubusercontent.com/63139861/153585916-244fc8db-b28d-45df-a872-8c0408febee4.png)
