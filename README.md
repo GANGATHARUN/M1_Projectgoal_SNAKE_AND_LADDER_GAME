@@ -10,3 +10,7 @@ The game will begin with any dice value .If a 6(six) is appeared then a chance i
 ![code quality](https://api.codiga.io/project/31114/score/svg)
 
 ![code grade](https://api.codiga.io/project/31114/status/svg)
+
+<a href="https://app.codiga.io/public/user/github/GANGATHARUN">
+   <img src="https://api.codiga.io/public/badge/user/github/GANGATHARUN?style=light" alt="codiga badge" />
+</a>
