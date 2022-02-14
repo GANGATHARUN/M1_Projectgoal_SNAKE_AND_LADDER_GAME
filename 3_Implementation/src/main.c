@@ -1,9 +1,3 @@
-#include "snake_and_ladder.h"
-int n_players,_1st=0,_2nd=0,_3rd=0,_4th=0,position=0,seat=0,f,d1,d2;
-char n;
-
-int Rolling();
-int Dice();
 int main()
 {                         printf("\t\t\t\tWellcome to Snake Ladder Game\n\n");
    printf("|100 99 98 97 96 95 94 93 92 91 |              Snake 99 to 04      ladder 75 to 96\n");
@@ -189,36 +183,4 @@ scanf("%d",&n_players);
 	
 return 0;
 	
-}
-// custom function for rolling the dice
-int Rolling()
-{
-	scanf("%c",&n);
-	if(n==10)
-	{
-		srand(time(0));
-		d1=(rand()%6)+1;
-	}
-	printf("The dice tuned to be : %d\n",d1);
-}
-
-// custom function for 6 on dice
-int Dice()
-{
-	while("game")
-	{
-		if(d1!=6 && d2!=6)
-		break;
-		while(1)
-		{
-			scanf("%c",&n);
-			if(n==10)
-			{
-				d2=(rand()%6)+1;
-				break;
-			}
-		}
-		printf("The dice turned eo be :%d\n",d2);
-		d1=d1+d2;
-	}
 }
