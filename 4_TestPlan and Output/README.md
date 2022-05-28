@@ -1,4 +1,4 @@
-# Test Plan and Test Ouput
+# Test Plan and Test Output
 
 | *Test ID* | *HLT ID* | *Description*                                              | *Exp IN* | *Exp OUT* | *Actual Out* |*PASS/FAIL*  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
